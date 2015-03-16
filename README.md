@@ -1,3 +1,0 @@
-# MyFirstGitHub
-Just testing
-test
